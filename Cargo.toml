@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "Pluggable SHA1/SHA256 abstraction for the rtbit BitTorrent client"
 license = "MIT"
-repository = "https://github.com/AusAgentSmith-org/librtbit-sha1-wrapper"
+repository = "http://100.92.54.45:3002/indexarr/librtbit-sha1-wrapper"
 
 [features]
 default = ["sha1-crypto-hash"]
